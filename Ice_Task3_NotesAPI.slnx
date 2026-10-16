@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../UnifiedNotesGateway/UnifiedNotesGateway.csproj" Id="d98f3e2e-2c92-4b8a-821e-9ad94ef9d905" />
+  <Project Path="Ice_Task3_NotesAPI.csproj" />
+</Solution>
